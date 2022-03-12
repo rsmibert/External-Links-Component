@@ -14,6 +14,9 @@ https://developer.salesforce.com/docs/atlas.en-us.api_console.meta/api_console/s
 
 You will need to create your custom metadata types and records.
 
+
+![2_custom_metadata_type](https://user-images.githubusercontent.com/17201069/158032933-df7a7410-5037-4ac6-a676-1096cd6c75da.png)
+
 More information on creating Salesforce custom metadata types and records can be found here:
 https://help.salesforce.com/s/articleView?id=sf.custommetadatatypes_about.htm&type=5
 
