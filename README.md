@@ -1,7 +1,7 @@
 # External-Links-Component
 LWC component that can be used in the Salesforce utility bar to display and open URLs in a new browser tab.
 
-This LWC component can be added the Salesforce utility bar providing quick access to bookmarked sites with a single click within Salesforce.
+This LWC component can be added to the Salesforce utility bar providing quick access to bookmarked sites with a single click within Salesforce.
 
 ![image](https://user-images.githubusercontent.com/17201069/158031149-40fdd897-cc18-41d9-96df-5e94964000b1.png)
 
